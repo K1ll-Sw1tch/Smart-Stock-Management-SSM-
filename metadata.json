@@ -1,0 +1,6 @@
+{
+  "name": "SmartStock Excel — Bulk & Batch FEFO Inventory Suite",
+  "description": "Full-featured web-based inventory management system mimicking the multi-sheet Excel/VBA architecture with automatic bulk-to-issue unit conversions, FEFO batch expiry engine, receipt & issue tracking, voucher printing, and live .xlsx workbook generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
